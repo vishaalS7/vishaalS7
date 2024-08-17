@@ -22,8 +22,8 @@ Before diving into the Web3 space, I spent over 2 years as a **Penetration Teste
 
 
 ## 🌐 Connect with Me
-- **[LinkedIn](www.linkedin.com/in/vishaals14)**
-- **[Twitter](https://x.com/0Glitchx)**
+- **[LinkedIn]([www.linkedin.com/in/vishaals14](https://www.linkedin.com/in/vishaals14/))**
+- **[Twitter]([https://x.com/0Glitchx](https://x.com/0Glitchx))**
 
 ---
 
