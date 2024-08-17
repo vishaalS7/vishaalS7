@@ -20,11 +20,6 @@ Hello! I’m **Vishaal S**, also known as **0Glitchx**. I’m a passionate Web3 
 ## 💼 Previous Experience
 Before diving into the Web3 space, I spent over 2 years as a **Penetration Tester**, focusing on identifying and mitigating security vulnerabilities across various systems and networks. This experience has provided me with a strong foundation in security practices and has fueled my enthusiasm for the Web3 domain.
 
-
-## 🌐 Connect with Me
-- **[LinkedIn]([www.linkedin.com/in/vishaals14](https://www.linkedin.com/in/vishaals14/))**
-- **[Twitter]([https://x.com/0Glitchx](https://x.com/0Glitchx))**
-
 ---
 
 
