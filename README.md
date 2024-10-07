@@ -5,16 +5,16 @@ Hello! I’m **Vishaal S**, also known as **0Glitchx**. I’m a passionate Web3 
 
 
 ## 🔧 Skills & Technologies
-- **Blockchain Security:** Vulnerability research, smart contract auditing, and security best practices.
-- **Smart Contracts:** Solidity, OpenZeppelin
-- **Development Tools:** Hardhat, Truffle, Ganache
-- **Web3 Technologies:** Ethereum, IPFS
+- **Blockchain Security:** Vulnerability research, smart contract auditing, smart contract review and security best practices.
+- **Smart Contracts:** Solidity, OpenZeppelin, Rust
+- **Development Tools:** Foundry, Truffle, Ganache
+- **Web3 Technologies:** Ethereum, IPFS, zero Knowledge
 - **Previous Experience:** Penetration Testing, Ethical Hacking, Vulnerability Assessment
 
 
 ## 🛠️ Tools & Technologies I’m Learning
 - **Solidity:** Advanced contract development and security.
-- **Hardhat:** Blockchain development framework and testing.
+- **Foundry:** Blockchain development framework and testing.
 
 
 ## 💼 Previous Experience
