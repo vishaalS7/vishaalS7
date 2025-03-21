@@ -1,4 +1,4 @@
-# Vishaal S (0Glitchx) - Web3 Security Researcher & Bug bounty Hunter
+# Vishaal S (0xvishh) - Web3 Security Researcher & Ethical Hacker
 
 ## 👋 About Me
 Hello! I’m **Vishaal S**, also known as **0Glitchx**. I’m a passionate Web3 security researcher with a focus on discovering vulnerabilities in blockchain systems. I’m currently expanding my expertise by learning Solidity and Hardhat to build and secure decentralized applications. With a background in penetration testing and over 2 years of experience in security, I’m excited about the opportunities in the Web3 space.
