@@ -1,13 +1,14 @@
 # Vishaal S (0xvishh) - Web3 Security Researcher & Ethical Hacker
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=Infinity&width=600&lines=Security+Researcher;Smart+Contract+Auditor;Web3+CTF+Player;Rust+%26+Solidity+Learner" alt="Typing animation" />
-</p>
-
-
-
 ## 👋 About Me
 Hello! I’m **Vishaal S**, also known as **0xvishh**. I’m a passionate Web3 security researcher with a focus on discovering vulnerabilities in blockchain systems. I’m currently expanding my expertise by learning Solidity and Hardhat to build and secure decentralized applications. With a background in penetration testing and over 2 years of experience in security, I’m excited about the opportunities in the Web3 space.
+
+<p align="center">
+  <a href="https://github.com/0xvishh">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=Infinity&width=600&lines=Security+Researcher;Smart+Contract+Auditor;Web3+CTF+Player;Rust+%26+Solidity+Learner" alt="Typing animation" />
+  </a>
+</p>
+
 
 
 ## 🔧 Skills & Technologies
