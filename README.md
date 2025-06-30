@@ -5,7 +5,7 @@ Hello! I’m **Vishaal S**, also known as **0xvishh**. I’m a passionate Web3 s
 
 ---
 
-<p align="left" style="font-weight:bold;">Blockchain Security Researcher</p>
+<p align="left" style="font-weight:bold;">`Blockchain Security Researcher`</p>
 
 <p align="center">
   <a href="https://github.com/0xvishh">
