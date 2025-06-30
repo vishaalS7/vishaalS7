@@ -1,7 +1,11 @@
 # Vishaal S (0xvishh) - Web3 Security Researcher & Ethical Hacker
 
 ## 👋 About Me
-Hello! I’m **Vishaal S**, also known as **0xvishh**. I’m a passionate Web3 security researcher with a focus on discovering vulnerabilities in blockchain systems. I’m currently expanding my expertise by learning Solidity and Hardhat to build and secure decentralized applications. With a background in penetration testing and over 2 years of experience in security, I’m excited about the opportunities in the Web3 space.
+Hello! I’m **Vishaal S**, also known as **0xvishh**. I’m a passionate Web3 security researcher with a focus on discovering vulnerabilities in blockchain systems. I’m currently expanding my expertise by learning Solidity, Foundry, and Rust to build and secure decentralized applications. With a background in penetration testing and over 2 years of experience in security, I’m excited about the opportunities in the Web3 space.
+
+---
+
+<p align="left" style="font-weight:bold;">Blockchain Security Researcher</p>
 
 <p align="center">
   <a href="https://github.com/0xvishh">
@@ -9,25 +13,22 @@ Hello! I’m **Vishaal S**, also known as **0xvishh**. I’m a passionate Web3 s
   </a>
 </p>
 
-
-
 ## 🔧 Skills & Technologies
-- **Blockchain Security:** Vulnerability research, smart contract auditing, smart contract review and security best practices.
-- **Smart Contracts:** Solidity, OpenZeppelin, Rust
-- **Development Tools:** Foundry, Truffle, Ganache
-- **Web3 Technologies:** Ethereum, IPFS, zero Knowledge
-- **Previous Experience:** Penetration Testing, Ethical Hacking, Vulnerability Assessment
-
+- **Smart Contract Auditing:** Manual & automated analysis, CTF solving, audit report writing
+- **Languages:** Solidity, Rust (learning), JavaScript/TypeScript
+- **Security Expertise:** Ethereum attack surfaces, common vulnerabilities (reentrancy, frontrunning, overflows), EVM internals
+- **Tooling & Frameworks:** Foundry, Hardhat, Slither, MythX, Tenderly, Echidna
+- **Web3 Knowledge:** Ethereum, zkSync, Layer 2s, DeFi protocols (Aave, Compound), IPFS
+- **Traditional Security Background:** Penetration Testing, Ethical Hacking, Vulnerability Assessment, Burp Suite, Nmap
 
 ## 🛠️ Tools & Technologies I’m Learning
-- **Solidity:** Advanced contract development and security.
-- **Foundry:** Blockchain development framework and testing.
-
+- **Foundry:** Advanced smart contract development and testing
+- **Rust + Solana:** Exploring low-level Web3 systems
+- **ZK (Zero Knowledge):** Cryptographic primitives and real-world usage
 
 ## 💼 Previous Experience
-Before diving into the Web3 space, I spent over 2 years as a **Penetration Tester**, focusing on identifying and mitigating security vulnerabilities across various systems and networks. This experience has provided me with a strong foundation in security practices and has fueled my enthusiasm for the Web3 domain.
+Before diving into Web3, I spent over 2 years as a **Penetration Tester**, working on identifying and mitigating vulnerabilities in web apps, networks, and APIs. This traditional security experience deeply informs my approach to smart contract and blockchain security.
 
 ---
 
-
-Feel free to reach out if you’re interested in discussing Web3 security, collaborating on projects, or just sharing insights!
+📬 *Feel free to reach out if you’re interested in discussing Web3 security, collaborating on audits, or playing CTFs together!*
